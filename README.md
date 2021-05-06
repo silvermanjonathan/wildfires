@@ -12,6 +12,10 @@ Modeling is developed iteratively. In other words, a base model whose measures o
 
 For evaluating our model simplistically, we can look at accuracy. The number of observations correctly classified over the total possible number of observations is accuracy. This is also called the True Positive rate. Further metrics to get a comprehensive picture of model performance are detailed in the notebook.
 
+Presentation:
+
+A short slideshow of the project can be found here: https://tinyurl.com/5cty8cwb
+
 Table of Contents:
 
 1 juyter notebook named "Modeling Pipeline".
