@@ -18,7 +18,7 @@ A short slideshow of the project can be found here: https://tinyurl.com/5cty8cwb
 
 Table of Contents:
 
-1 juyter notebook named "Modeling Pipeline".
+1 juyter notebook named "Final Notebook".
 
 Reproduction Instructions:
 
